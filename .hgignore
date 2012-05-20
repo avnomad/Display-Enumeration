@@ -1,0 +1,8 @@
+syntax: regexp
+Debug/*
+Release/*
+ipch/*
+syntax: glob
+Display Enumeration.opensdf
+Display Enumeration.sdf
+Display Enumeration.suo
