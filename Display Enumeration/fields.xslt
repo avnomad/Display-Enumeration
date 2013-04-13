@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
 <!--
-//	Copyright (C) 2010, 2012 Vaptistis Anogeianakis <el05208@mail.ntua.gr>
+//	Copyright (C) 2010, 2012 Vaptistis Anogeianakis <nomad@cornercase.gr>
  *
  *	This file is part of Display Enumeration.
  *
